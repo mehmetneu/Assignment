@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="TM-PC_SQLEXPRESS.AdventureWorksOLTP"
+  DTS:DTSID="{A318A476-5F8D-4250-9571-940A6ACB14E8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=TM-PC\SQLEXPRESS;User ID=;Initial Catalog=AdventureWorksOLTP;Provider=MSOLEDBSQL.1;Persist Security Info=False;Integrated Security=SSPI;Initial File Name=;Server SPN=TM-PC\SQLEXPRESS;Authentication=;Access Token=;Application Name=SSIS-Assignment-{A318A476-5F8D-4250-9571-940A6ACB14E8}TM-PC\SQLEXPRESS.AdventureWorksOLTP;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
