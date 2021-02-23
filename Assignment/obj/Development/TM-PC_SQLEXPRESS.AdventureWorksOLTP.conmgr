@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="TM-PC_SQLEXPRESS.AdventureWorksOLTP"
   DTS:DTSID="{A318A476-5F8D-4250-9571-940A6ACB14E8}"
