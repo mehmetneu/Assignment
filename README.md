@@ -1,7 +1,7 @@
 # Assignment
-This is The First Release
-
 Read me
+
+
 In this exercise I created end-to-end solution using mostly* MS Tools.
 I used below tools:
    SQL Server Management Studio 2018
