@@ -20,7 +20,7 @@ Q1:How to build and run the solution?
 4.	Then I moved this rate information by Transforming it into DWH Scheme with "Proc_DimRates" SP.
 5.	To create the FactSales table, the FactSales table under the DWH Scheme has been filled in with "Proc_FactSales" SP using the SalesOrderHeader and SalesOrderDetail tables.
  Final Step, Reporting;
-    In this step, the desired report is created by using both SQL Query and Power BI. You can browse the "Report Result" Folder for details. The Report Query is inside the SQL Queries/Report Query.sql
+    In this step, the desired report is created by using both SQL Query and Power BI. You can browse the "Report Result" Folder for details. The Report Query is inside the "SQL Queries/Report Query.sql"
 
 Q2,3,4 below:
 I did this work for single Initial Load and FactSales. I could not construct an incremental structure. It would be nice to set this up.
